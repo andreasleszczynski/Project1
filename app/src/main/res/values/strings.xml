@@ -1,0 +1,23 @@
+<!--   Copyright 2018 Andreas Leszczynski
+
+       Licensed under the Apache License, Version 2.0 (the "License");
+       you may not use this file except in compliance with the License.
+       You may obtain a copy of the License at
+
+           http://www.apache.org/licenses/LICENSE-2.0
+
+       Unless required by applicable law or agreed to in writing, software
+       distributed under the License is distributed on an "AS IS" BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+       See the License for the specific language governing permissions and
+       limitations under the License. -->
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="textview1">Be part of</string>
+    <string name="textview2">the future</string>
+    <string name="button1">Join Now</string>
+    <string name="company_name">Udacity</string>
+    <string name="address">2465 Latham St\nMountain View, CA 94043</string>
+    <string name="phone_no">650–555–5555 (tel)</string>
+    <string name="image_udacity">Image about Udacity</string>
+</resources>
